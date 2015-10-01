@@ -8,29 +8,33 @@
     "thank-you-for-coming.md",
     "our-team.md",
     "volunteers.md",
-    ["sponsors.md",
-      {
-        "filename": "platinum.md",
-        "attr": {
-          "id": "platinum"
+    [
+        "sponsors.md",
+        {
+            "filename": "platinum.md",
+            "attr": {
+                "id": "platinum"
+            }
+        },
+        {
+            "filename": "gold.md",
+            "attr": {
+                "id": "gold"
+            }
+        },
+        {
+            "filename": "silver.md",
+            "attr": {
+                "id": "silver"
+            }
+        },
+        {
+            "filename": "bronze.md",
+            "attr": {
+                "id": "bronze"
+            }
         }
-    },
-      {
-        "filename": "gold.md",
-        "attr": {
-          "id": "gold"
-        }
-    },
-      {
-        "filename": "silver.md",
-        "attr": {
-          "id": "silver"
-        }
-    },
-      {
-        "filename": "bronze.md",
-        "attr": {
-          "id": "bronze"
-        }
-    }]
+    ],
+    "quiz.md",
+    "code-of-conduct.md"
 ]
