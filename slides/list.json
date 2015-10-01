@@ -1,1 +1,9 @@
-["index.md"]
+[
+    {
+        "filename": "index.md",
+        "attr": {
+            "id": "welcome"
+        }
+    },
+    "thank-you-for-coming.md"
+]

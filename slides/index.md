@@ -1,4 +1,3 @@
 
-# Welcome to Hackference
-
-
+# Welcome to
+![Hackference](images/logo.png)
