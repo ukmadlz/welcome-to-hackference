@@ -9,8 +9,28 @@
     "our-team.md",
     "volunteers.md",
     ["sponsors.md",
-    "platinum.md",
-    "gold.md",
-    "silver.md",
-    "bronze.md"]
+      {
+        "filename": "platinum.md",
+        "attr": {
+          "id": "platinum"
+        }
+    },
+      {
+        "filename": "gold.md",
+        "attr": {
+          "id": "gold"
+        }
+    },
+      {
+        "filename": "silver.md",
+        "attr": {
+          "id": "silver"
+        }
+    },
+      {
+        "filename": "bronze.md",
+        "attr": {
+          "id": "bronze"
+        }
+    }]
 ]
